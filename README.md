@@ -1,3 +1,5 @@
+SmashGPT
+
 Testing machine learning models for security vulnerabilities is a multi-step process that involves a combination of rigorous analysis, threat modeling, and practical testing techniques. Here are some steps you might follow:
 
 1. **Understand the model:** Start by gaining a thorough understanding of the machine learning model, including the algorithms it uses, the data it was trained on, and its intended application. This will help you understand where vulnerabilities might lie.
